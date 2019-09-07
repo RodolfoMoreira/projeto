@@ -1,0 +1,114 @@
+﻿html, body {
+    height: 100%;
+}
+
+#wrapper {
+    background-image: url(../Imagens/wall.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    height: 100%;
+    padding-top:50px;
+}
+
+#wrapper2 {
+    background-image: url(../Imagens/wall2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    width: 100%;
+}
+
+#wrapper h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+
+#titulo {
+    margin-top: 90px;
+}
+
+    #titulo p {
+        
+        font-weight:bold;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+
+#wrapper2 h1 {
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+#wrapper img {
+    width: 477px;
+}
+
+#bs-example-navbar-collapse-1 {
+    margin-top:10px;
+}
+
+
+#btnEntrar {
+    margin-bottom: 20px;
+}
+
+#navMaps {
+    margin-right: 10px;
+    top: 10px;
+    width: 40px;
+}
+
+#logoFacebook {
+    width: 30px;
+    margin-top:-1px;
+}
+
+#logoInstagram {
+    width: 50px;
+}
+
+#rodape {
+    margin-top: 5px;
+    height: 55px;
+    color:white;
+}
+
+#imagens {
+    margin: -3px;
+    
+}
+
+#quadroAviso {
+    margin-top: 10px;
+    
+
+}
+
+#midiaSocial {
+   float:right;
+}
+
+#sobre {
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 10px;
+}
+
+#sobre span{
+    font-size:45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
